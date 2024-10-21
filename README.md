@@ -1,7 +1,7 @@
 # Hi there, I'm Kendry
 
 ## About me
-Junior backend developer, Computer Science student
+Junior developer, Computer Science student
 
 ## Skills
 - **HTML, CSS**: MUI, Tailwind
@@ -9,10 +9,7 @@ Junior backend developer, Computer Science student
 - **C#**: .Net, Unity
 - **Python**: Django, FastAPI, Flask
 - **SQL**
-
-## Github Stats
-- Vlady Github stats
-
+- 
 ## Education
 - Computer Science, Havana University
 
