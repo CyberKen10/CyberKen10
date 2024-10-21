@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Kendry
+
+## About me
+Junior backend developer, Computer Science student
+
+## Skills
+- **HTML, CSS**: MUI, Tailwind
+- **JavaScript**: Vanilla, React, NextJS
+- **C#**: .Net, Unity
+- **Python**: Django, FastAPI, Flask
+- **SQL**
+
+## Github Stats
+- Vlady Github stats
+
+## Education
+- Computer Science, Havana University
+
+## Contact me
+- kendryjavierdelpino@gmail.com
 
 <!--
 **CyberKen10/CyberKen10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
